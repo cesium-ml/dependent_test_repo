@@ -1,4 +1,5 @@
 install: true
 language: c
+sudo: false
 script: echo "Success!"
 
